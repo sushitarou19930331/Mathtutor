@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package label="Numberline Japanese">
+  <Problems>
+    <Problem name="問１" label="問１" tutor_flag="tutor" model_file="Ja_performance_Q1.brd" student_interface="Ja_Q1_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問１０" label="問１０" tutor_flag="tutor" model_file="Ja_effort_Q1.brd" student_interface="Q10.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問１１" label="問１１" tutor_flag="tutor" model_file="Ja_effort_Q1.brd" student_interface="Q11.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問２" label="問２" tutor_flag="tutor" model_file="Ja_performance_Q2.brd" student_interface="Ja_Q2_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問３" label="問３" tutor_flag="tutor" model_file="Ja_performance_Q3.brd" student_interface="Q3.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問４" label="問４" tutor_flag="tutor" model_file="Ja_performance_Q4.brd" student_interface="Ja_Q4_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問５" label="問５" tutor_flag="tutor" model_file="Ja_performance_Q5.brd" student_interface="Ja_Q5_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問６" label="問６" tutor_flag="tutor" model_file="Ja_performance_Q6.brd" student_interface="Q6.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問７" label="問７" tutor_flag="tutor" model_file="Ja_performance_Q7.brd" student_interface="Ja_Q7_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問８" label="問８" tutor_flag="tutor" model_file="Ja_performance_Q8.brd" student_interface="Ja_Q8_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問９" label="問９" tutor_flag="tutor" model_file="Ja_performance_Q9.brd" student_interface="Q9.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題１" label="問題１" tutor_flag="tutor" model_file="Ja_effort_Q1.brd" student_interface="Ja_Q1_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題１０" label="問題１０" tutor_flag="tutor" model_file="Ja_effort_Q1.brd" student_interface="Q10.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題１１" label="問題１１" tutor_flag="tutor" model_file="Ja_effort_Q1.brd" student_interface="Q11.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題２" label="問題２" tutor_flag="tutor" model_file="Ja_effort_Q2.brd" student_interface="Ja_Q2_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題３" label="問題３" tutor_flag="tutor" model_file="Ja_effort_Q3.brd" student_interface="Q3.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題４" label="問題４" tutor_flag="tutor" model_file="Ja_effort_Q4.brd" student_interface="Ja_Q4_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題５" label="問題５" tutor_flag="tutor" model_file="Ja_effort_Q5.brd" student_interface="Ja_Q5_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題６" label="問題６" tutor_flag="tutor" model_file="Ja_effort_Q6.brd" student_interface="Q6.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題７" label="問題７" tutor_flag="tutor" model_file="Ja_effort_Q7.brd" student_interface="Ja_Q7_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題８" label="問題８" tutor_flag="tutor" model_file="Ja_effort_Q8.brd" student_interface="Ja_Q8_performance.html">
+      <Skills>
+      </Skills>
+    </Problem>
+    <Problem name="問題９" label="問題９" tutor_flag="tutor" model_file="Ja_effort_Q9.brd" student_interface="Q9.html">
+      <Skills>
+      </Skills>
+    </Problem>
+  </Problems>
+  <ProblemSets>
+    <ProblemSet name="かんたん（３問）effort-based" label="かんたん（３問）" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
+      <Problems>
+        <Problem name="問題１" position="1" role="0"/>
+        <Problem name="問題２" position="2" role="0"/>
+        <Problem name="問題３" position="3" role="0"/>
+      </Problems>
+      <Skills>
+      </Skills>
+      <Assets>
+      </Assets>
+      <Categories>
+        <Standard name="CommonCore" label="Common Core Standards" description="Common Core Standards" standard_level="standard"/>
+        <Standard name="NCTM" label="NCTM Curriculum Focal Points" description="NCTM Curriculum Focal Points" standard_level="standard"/>
+        <Standard name="PA" label="PA Assessment Anchors" description="PA Assessment Anchors" standard_level="standard"/>
+        <Standard name="Student" label="Problem Set Categories" description="Student Standards" standard_level="standard"/>
+      </Categories>
+    </ProblemSet>
+    <ProblemSet name="かんたん（３問）performance-based" label="かんたん（３問）" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
+      <Problems>
+        <Problem name="問１" position="1" role="0"/>
+        <Problem name="問２" position="2" role="0"/>
+        <Problem name="問３" position="3" role="0"/>
+      </Problems>
+      <Skills>
+      </Skills>
+      <Assets>
+      </Assets>
+      <Categories>
+        <Standard name="CommonCore" label="Common Core Standards" description="Common Core Standards" standard_level="standard"/>
+        <Standard name="NCTM" label="NCTM Curriculum Focal Points" description="NCTM Curriculum Focal Points" standard_level="standard"/>
+        <Standard name="PA" label="PA Assessment Anchors" description="PA Assessment Anchors" standard_level="standard"/>
+        <Standard name="Student" label="Problem Set Categories" description="Student Standards" standard_level="standard"/>
+      </Categories>
+    </ProblemSet>
+    <ProblemSet name="ふつう（３問）effort-based" label="ふつう（３問）" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
+      <Problems>
+        <Problem name="問題４" position="1" role="0"/>
+        <Problem name="問題５" position="2" role="0"/>
+        <Problem name="問題６" position="3" role="0"/>
+      </Problems>
+      <Skills>
+      </Skills>
+      <Assets>
+      </Assets>
+      <Categories>
+        <Standard name="CommonCore" label="Common Core Standards" description="Common Core Standards" standard_level="standard"/>
+        <Standard name="NCTM" label="NCTM Curriculum Focal Points" description="NCTM Curriculum Focal Points" standard_level="standard"/>
+        <Standard name="PA" label="PA Assessment Anchors" description="PA Assessment Anchors" standard_level="standard"/>
+        <Standard name="Student" label="Problem Set Categories" description="Student Standards" standard_level="standard"/>
+      </Categories>
+    </ProblemSet>
+    <ProblemSet name="ふつう（３問）performance-based" label="ふつう（３問）" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
+      <Problems>
+        <Problem name="問４" position="1" role="0"/>
+        <Problem name="問５" position="2" role="0"/>
+        <Problem name="問６" position="3" role="0"/>
+      </Problems>
+      <Skills>
+      </Skills>
+      <Assets>
+      </Assets>
+      <Categories>
+        <Standard name="CommonCore" label="Common Core Standards" description="Common Core Standards" standard_level="standard"/>
+        <Standard name="NCTM" label="NCTM Curriculum Focal Points" description="NCTM Curriculum Focal Points" standard_level="standard"/>
+        <Standard name="PA" label="PA Assessment Anchors" description="PA Assessment Anchors" standard_level="standard"/>
+        <Standard name="Student" label="Problem Set Categories" description="Student Standards" standard_level="standard"/>
+      </Categories>
+    </ProblemSet>
+    <ProblemSet name="むずかしい（３問）effort-based" label="むずかしい（３問）" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
+      <Problems>
+        <Problem name="問題７" position="1" role="0"/>
+        <Problem name="問題８" position="2" role="0"/>
+        <Problem name="問題９" position="3" role="0"/>
+      </Problems>
+      <Skills>
+      </Skills>
+      <Assets>
+      </Assets>
+      <Categories>
+        <Standard name="CommonCore" label="Common Core Standards" description="Common Core Standards" standard_level="standard"/>
+        <Standard name="NCTM" label="NCTM Curriculum Focal Points" description="NCTM Curriculum Focal Points" standard_level="standard"/>
+        <Standard name="PA" label="PA Assessment Anchors" description="PA Assessment Anchors" standard_level="standard"/>
+        <Standard name="Student" label="Problem Set Categories" description="Student Standards" standard_level="standard"/>
+      </Categories>
+    </ProblemSet>
+    <ProblemSet name="むずかしい（３問）performance-based" label="むずかしい（３問）" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
+      <Problems>
+        <Problem name="問７" position="1" role="0"/>
+        <Problem name="問８" position="2" role="0"/>
+        <Problem name="問９" position="3" role="0"/>
+      </Problems>
+      <Skills>
+      </Skills>
+      <Assets>
+      </Assets>
+      <Categories>
+        <Standard name="CommonCore" label="Common Core Standards" description="Common Core Standards" standard_level="standard"/>
+        <Standard name="NCTM" label="NCTM Curriculum Focal Points" description="NCTM Curriculum Focal Points" standard_level="standard"/>
+        <Standard name="PA" label="PA Assessment Anchors" description="PA Assessment Anchors" standard_level="standard"/>
+        <Standard name="Student" label="Problem Set Categories" description="Student Standards" standard_level="standard"/>
+      </Categories>
+    </ProblemSet>
+    <ProblemSet name="むずかしいプラス（２問）effort-based" label="むずかしいプラス（２問）" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
+      <Problems>
+        <Problem name="問題１０" position="1" role="0"/>
+        <Problem name="問題１１" position="2" role="0"/>
+      </Problems>
+      <Skills>
+      </Skills>
+      <Assets>
+      </Assets>
+      <Categories>
+        <Standard name="CommonCore" label="Common Core Standards" description="Common Core Standards" standard_level="standard"/>
+        <Standard name="NCTM" label="NCTM Curriculum Focal Points" description="NCTM Curriculum Focal Points" standard_level="standard"/>
+        <Standard name="PA" label="PA Assessment Anchors" description="PA Assessment Anchors" standard_level="standard"/>
+        <Standard name="Student" label="Problem Set Categories" description="Student Standards" standard_level="standard"/>
+      </Categories>
+    </ProblemSet>
+    <ProblemSet name="むずかしいプラス（２問）performance-based" label="むずかしいプラス（２問）" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
+      <Problems>
+        <Problem name="問題１０" position="1" role="0"/>
+        <Problem name="問題１１" position="2" role="0"/>
+      </Problems>
+      <Skills>
+      </Skills>
+      <Assets>
+      </Assets>
+      <Categories>
+        <Standard name="CommonCore" label="Common Core Standards" description="Common Core Standards" standard_level="standard"/>
+        <Standard name="NCTM" label="NCTM Curriculum Focal Points" description="NCTM Curriculum Focal Points" standard_level="standard"/>
+        <Standard name="PA" label="PA Assessment Anchors" description="PA Assessment Anchors" standard_level="standard"/>
+        <Standard name="Student" label="Problem Set Categories" description="Student Standards" standard_level="standard"/>
+      </Categories>
+    </ProblemSet>
+  </ProblemSets>
+  <Assets>
+    <Asset name="Ja_effort_Q1.brd" path="FinalBRDs"/>
+    <Asset name="Ja_effort_Q10.brd" path="FinalBRDs"/>
+    <Asset name="Ja_effort_Q2.brd" path="FinalBRDs"/>
+    <Asset name="Ja_effort_Q3.brd" path="FinalBRDs"/>
+    <Asset name="Ja_effort_Q4.brd" path="FinalBRDs"/>
+    <Asset name="Ja_effort_Q5.brd" path="FinalBRDs"/>
+    <Asset name="Ja_effort_Q6.brd" path="FinalBRDs"/>
+    <Asset name="Ja_effort_Q7.brd" path="FinalBRDs"/>
+    <Asset name="Ja_effort_Q8.brd" path="FinalBRDs"/>
+    <Asset name="Ja_effort_Q9.brd" path="FinalBRDs"/>
+    <Asset name="Ja_performance_Q1.brd" path="FinalBRDs"/>
+    <Asset name="Ja_performance_Q2.brd" path="FinalBRDs"/>
+    <Asset name="Ja_performance_Q3.brd" path="FinalBRDs"/>
+    <Asset name="Ja_performance_Q4.brd" path="FinalBRDs"/>
+    <Asset name="Ja_performance_Q5.brd" path="FinalBRDs"/>
+    <Asset name="Ja_performance_Q6.brd" path="FinalBRDs"/>
+    <Asset name="Ja_performance_Q7.brd" path="FinalBRDs"/>
+    <Asset name="Ja_performance_Q8.brd" path="FinalBRDs"/>
+    <Asset name="Ja_performance_Q9.brd" path="FinalBRDs"/>
+    <Asset name="Ja_Q1_performance.ed.html" path="HTML"/>
+    <Asset name="Ja_Q1_performance.html" path="HTML"/>
+    <Asset name="Ja_Q2_performance.ed.html" path="HTML"/>
+    <Asset name="Ja_Q2_performance.html" path="HTML"/>
+    <Asset name="Ja_Q4_performance.ed.html" path="HTML"/>
+    <Asset name="Ja_Q4_performance.html" path="HTML"/>
+    <Asset name="Ja_Q5_performance.ed.html" path="HTML"/>
+    <Asset name="Ja_Q5_performance.html" path="HTML"/>
+    <Asset name="Ja_Q7_performance.ed.html" path="HTML"/>
+    <Asset name="Ja_Q7_performance.html" path="HTML"/>
+    <Asset name="Ja_Q8_performance.ed.html" path="HTML"/>
+    <Asset name="Ja_Q8_performance.html" path="HTML"/>
+    <Asset name="Q10.ed.html" path="HTML"/>
+    <Asset name="Q10.html" path="HTML"/>
+    <Asset name="Q11.ed.html" path="HTML"/>
+    <Asset name="Q11.html" path="HTML"/>
+    <Asset name="Q3.ed.html" path="HTML"/>
+    <Asset name="Q3.html" path="HTML"/>
+    <Asset name="Q6.ed.html" path="HTML"/>
+    <Asset name="Q6.html" path="HTML"/>
+    <Asset name="Q9.ed.html" path="HTML"/>
+    <Asset name="Q9.html" path="HTML"/>
+    <Asset name="1-styles.css" path="HTML/Assets"/>
+    <Asset name="1.png" path="HTML/Assets"/>
+    <Asset name="10.png" path="HTML/Assets"/>
+    <Asset name="11.png" path="HTML/Assets"/>
+    <Asset name="2.png" path="HTML/Assets"/>
+    <Asset name="3.png" path="HTML/Assets"/>
+    <Asset name="4.png" path="HTML/Assets"/>
+    <Asset name="5.png" path="HTML/Assets"/>
+    <Asset name="6.png" path="HTML/Assets"/>
+    <Asset name="7.png" path="HTML/Assets"/>
+    <Asset name="8.png" path="HTML/Assets"/>
+    <Asset name="9.png" path="HTML/Assets"/>
+    <Asset name="a-styles.css" path="HTML/Assets"/>
+    <Asset name="combo3-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q1_performance-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q1-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q1n_performance-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q2_performance-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q3_performance-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q4_performance-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q5_performance-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q6_performance-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q7_performance-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q8_performance-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja_Q9_performance-styles.css" path="HTML/Assets"/>
+    <Asset name="Ja-styles.css" path="HTML/Assets"/>
+    <Asset name="lang-ja.js" path="HTML/Assets"/>
+    <Asset name="Q1-styles.css" path="HTML/Assets"/>
+    <Asset name="Q1.png" path="HTML/Assets"/>
+    <Asset name="Q10-styles.css" path="HTML/Assets"/>
+    <Asset name="Q10.png" path="HTML/Assets"/>
+    <Asset name="Q11-styles.css" path="HTML/Assets"/>
+    <Asset name="Q11.png" path="HTML/Assets"/>
+    <Asset name="Q2.png" path="HTML/Assets"/>
+    <Asset name="Q3-styles.css" path="HTML/Assets"/>
+    <Asset name="Q3.png" path="HTML/Assets"/>
+    <Asset name="Q4.png" path="HTML/Assets"/>
+    <Asset name="Q5.png" path="HTML/Assets"/>
+    <Asset name="Q6-styles.css" path="HTML/Assets"/>
+    <Asset name="Q6.png" path="HTML/Assets"/>
+    <Asset name="Q7.png" path="HTML/Assets"/>
+    <Asset name="Q8.png" path="HTML/Assets"/>
+    <Asset name="Q9-styles.css" path="HTML/Assets"/>
+    <Asset name="Q9.png" path="HTML/Assets"/>
+    <Asset name="Screen Shot 2023-07-05 at 8.58.21.png" path="HTML/Assets"/>
+    <Asset name="test-styles.css" path="HTML/Assets"/>
+    <Asset name="three combos-styles.css" path="HTML/Assets"/>
+  </Assets>
+</Package>
