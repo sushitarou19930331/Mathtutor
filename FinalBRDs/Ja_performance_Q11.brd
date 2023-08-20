@@ -17,7 +17,7 @@
         </message>
     </startNodeMessages>
     <node locked="false" doneState="false">
-        <text>Ja_effort_Q10</text>
+        <text>Ja_performance_Q11</text>
         <uniqueID>1</uniqueID>
         <dimension>
             <x>418</x>
@@ -554,15 +554,15 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>648</value>
+                        <value>60</value>
                     </Input>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage>&#12356;&#12387;&#12375;&#12423;&#12358;&#12369;&#12435;&#12417;&#12356;&#32771;&#12360;&#12390;&#12356;&#12427;&#12397;&#12290;</successMessage>
-            <hintMessage>&#21839;&#38988;&#12434;&#12424;&#12367;&#35501;&#12415;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
-            <hintMessage>&#21271;&#30010;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12377;&#12290;</hintMessage>
-            <hintMessage>1&#12371;&#12354;&#12383;&#12426;&#12398;&#12376;&#12419;&#12364;&#12356;&#12418;&#12398;&#12397;&#12384;&#12435;&#12399;&#12356;&#12367;&#12425;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <successMessage>&#12391;&#12365;&#12414;&#12375;&#12383;&#12290;</successMessage>
+            <hintMessage>&#12394;&#12415;&#12373;&#12435;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12377;&#12290;</hintMessage>
+            <hintMessage>&#19978;&#12398;&#30452;&#32218;&#12399;&#20309;&#12434;&#34920;&#12375;&#12390;&#12356;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>1&#31186;&#12354;&#12383;&#12426;&#20309;&#25991;&#23383;&#25171;&#12387;&#12383;&#12391;&#12375;&#12423;&#12358;&#12290;&#65288;1&#31186;&#12391;&#20309;&#25991;&#23383;&#25171;&#12387;&#12383;&#12391;&#12375;&#12423;&#12358;&#12290;&#65289;</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -583,7 +583,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">648</matcherParameter>
+                        <matcherParameter name="single">60</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -615,12 +615,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>365</value>
+                        <value>42.9</value>
                     </Input>
                     <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12399;&#12378;&#12428;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -643,7 +643,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">365</matcherParameter>
+                        <matcherParameter name="single">42.9</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -675,12 +675,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>349</value>
+                        <value>2</value>
                     </Input>
                     <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12399;&#12378;&#12428;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <callbackFn></callbackFn>
             <actionType>Buggy Action</actionType>
@@ -702,7 +702,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">349</matcherParameter>
+                        <matcherParameter name="single">2</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -794,12 +794,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>640</value>
+                        <value>59</value>
                     </Input>
                     <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12399;&#12378;&#12428;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <callbackFn></callbackFn>
             <actionType>Buggy Action</actionType>
@@ -821,7 +821,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">640</matcherParameter>
+                        <matcherParameter name="single">59</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -854,15 +854,15 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>72</value>
+                        <value>1.2</value>
                     </Input>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage>&#12354;&#12394;&#12383;&#12398;&#12364;&#12435;&#12400;&#12426;&#12399;&#26368;&#39640;&#12391;&#12377;&#12290;</successMessage>
-            <hintMessage>&#21839;&#38988;&#12434;&#12424;&#12367;&#35501;&#12415;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
-            <hintMessage>&#21271;&#30010;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12377;&#12290;</hintMessage>
-            <hintMessage>1&#12371;&#12354;&#12383;&#12426;&#12398;&#12376;&#12419;&#12364;&#12356;&#12418;&#12398;&#12397;&#12384;&#12435;&#12399;&#12356;&#12367;&#12425;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <successMessage>&#12391;&#12365;&#12414;&#12375;&#12383;&#12290;</successMessage>
+            <hintMessage>&#12394;&#12415;&#12373;&#12435;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12377;&#12290;</hintMessage>
+            <hintMessage>&#19978;&#12398;&#30452;&#32218;&#12399;&#20309;&#12434;&#34920;&#12375;&#12390;&#12356;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>1&#31186;&#12354;&#12383;&#12426;&#20309;&#25991;&#23383;&#25171;&#12387;&#12383;&#12391;&#12375;&#12423;&#12358;&#12290;&#65288;1&#31186;&#12391;&#20309;&#25991;&#23383;&#25171;&#12387;&#12383;&#12391;&#12375;&#12423;&#12358;&#12290;&#65289;</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -883,7 +883,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">72</matcherParameter>
+                        <matcherParameter name="single">1.2</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -915,12 +915,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>62</value>
+                        <value>59.9</value>
                     </Input>
                     <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12399;&#12378;&#12428;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <callbackFn></callbackFn>
             <actionType>Buggy Action</actionType>
@@ -942,7 +942,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">62</matcherParameter>
+                        <matcherParameter name="single">59.9</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1034,16 +1034,16 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>73</value>
+                        <value>1.3</value>
                     </Input>
                     <transaction_id>e13d3a28-6898-0798-4a95-392418d62da8</transaction_id>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage>&#12364;&#12435;&#12400;&#12427;&#12377;&#12364;&#12383;&#12364;&#12377;&#12400;&#12425;&#12375;&#12356;&#12290;</successMessage>
-            <hintMessage>&#21839;&#38988;&#12434;&#12424;&#12367;&#35501;&#12415;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
-            <hintMessage>&#35199;&#30010;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12377;&#12290;</hintMessage>
-            <hintMessage>1&#12371;&#12354;&#12383;&#12426;&#12398;&#12376;&#12419;&#12364;&#12356;&#12418;&#12398;&#12397;&#12384;&#12435;&#12399;&#12356;&#12367;&#12425;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <successMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12377;&#12290;</successMessage>
+            <hintMessage>&#12422;&#12363;&#12373;&#12435;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>&#19978;&#12392;&#19979;&#12398;&#30452;&#32218;&#12399;&#12381;&#12428;&#12382;&#12428;&#20309;&#12434;&#34920;&#12375;&#12390;&#12356;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>&#12422;&#12363;&#12373;&#12435;&#12399;&#20309;&#25991;&#23383;&#12398;&#25991;&#31456;&#12434;&#12497;&#12477;&#12467;&#12531;&#12391;&#25171;&#12385;&#12414;&#12375;&#12383;&#12363;&#12290;</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1064,7 +1064,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">73</matcherParameter>
+                        <matcherParameter name="single">1.3</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1156,16 +1156,16 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>5</value>
+                        <value>33</value>
                     </Input>
                     <transaction_id>b0cb70fc-1528-8db7-ddf5-452bc9ed2ccb</transaction_id>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage>&#12364;&#12435;&#12400;&#12427;&#12377;&#12364;&#12383;&#12364;&#12377;&#12400;&#12425;&#12375;&#12356;&#12290;</successMessage>
-            <hintMessage>&#21839;&#38988;&#12434;&#12424;&#12367;&#35501;&#12415;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
-            <hintMessage>&#35199;&#30010;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12377;&#12290;</hintMessage>
-            <hintMessage>1&#12371;&#12354;&#12383;&#12426;&#12398;&#12376;&#12419;&#12364;&#12356;&#12418;&#12398;&#12397;&#12384;&#12435;&#12399;&#12356;&#12367;&#12425;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <successMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12377;&#12290;</successMessage>
+            <hintMessage>&#12422;&#12363;&#12373;&#12435;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>&#19978;&#12392;&#19979;&#12398;&#30452;&#32218;&#12399;&#12381;&#12428;&#12382;&#12428;&#20309;&#12434;&#34920;&#12375;&#12390;&#12356;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>&#12422;&#12363;&#12373;&#12435;&#12399;&#20309;&#25991;&#23383;&#12398;&#25991;&#31456;&#12434;&#12497;&#12477;&#12467;&#12531;&#12391;&#25171;&#12385;&#12414;&#12375;&#12383;&#12363;&#12290;</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1186,7 +1186,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">5</matcherParameter>
+                        <matcherParameter name="single">33</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1338,12 +1338,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>639</value>
+                        <value>11</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12399;&#12378;&#12428;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1366,7 +1366,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">639</matcherParameter>
+                        <matcherParameter name="single">11</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1398,12 +1398,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>70</value>
+                        <value>12</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12399;&#12378;&#12428;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1426,7 +1426,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">70</matcherParameter>
+                        <matcherParameter name="single">12</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1458,12 +1458,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>647</value>
+                        <value>1</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12399;&#12378;&#12428;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1486,7 +1486,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">647</matcherParameter>
+                        <matcherParameter name="single">1</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1518,12 +1518,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>476</value>
+                        <value>26.4</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12399;&#12378;&#12428;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1546,7 +1546,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">476</matcherParameter>
+                        <matcherParameter name="single">26.4</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1578,12 +1578,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>765</value>
+                        <value>50</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12399;&#12378;&#12428;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1606,7 +1606,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">765</matcherParameter>
+                        <matcherParameter name="single">50</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1638,12 +1638,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>462</value>
+                        <value>27</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12399;&#12378;&#12428;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1666,7 +1666,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">462</matcherParameter>
+                        <matcherParameter name="single">27</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1698,12 +1698,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>80</value>
+                        <value>1.2</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1726,7 +1726,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">80</matcherParameter>
+                        <matcherParameter name="single">1.2</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1758,12 +1758,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>364</value>
+                        <value>1.1</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1786,7 +1786,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">364</matcherParameter>
+                        <matcherParameter name="single">1.1</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1818,12 +1818,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>70</value>
+                        <value>41.9</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1846,7 +1846,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">70</matcherParameter>
+                        <matcherParameter name="single">41.9</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1878,12 +1878,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>360</value>
+                        <value>0.3</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1906,7 +1906,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">360</matcherParameter>
+                        <matcherParameter name="single">0.3</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1938,12 +1938,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>68</value>
+                        <value>42.8</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1966,7 +1966,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">68</matcherParameter>
+                        <matcherParameter name="single">42.8</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1998,14 +1998,193 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>2</value>
+                        <value>27</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Buggy Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">combo4</matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">27</matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Student</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>11</sourceID>
+        <destID>33</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>113</uniqueID>
+            <message>
+                <verb>SendNoteProperty</verb>
+                <properties>
+                    <MessageType>CorrectAction</MessageType>
+                    <Selection>
+                        <value>combo4</value>
+                    </Selection>
+                    <Action>
+                        <value>UpdateComboBox</value>
+                    </Action>
+                    <Input>
+                        <value>26.4</value>
+                    </Input>
+                    <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
+                </properties>
+            </message>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Buggy Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">combo4</matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">26.4</matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Student</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>11</sourceID>
+        <destID>34</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>114</uniqueID>
+            <message>
+                <verb>SendNoteProperty</verb>
+                <properties>
+                    <MessageType>CorrectAction</MessageType>
+                    <Selection>
+                        <value>combo4</value>
+                    </Selection>
+                    <Action>
+                        <value>UpdateComboBox</value>
+                    </Action>
+                    <Input>
+                        <value>18</value>
+                    </Input>
+                    <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
+                </properties>
+            </message>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Buggy Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">combo4</matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">18</matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Student</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>11</sourceID>
+        <destID>35</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>115</uniqueID>
+            <message>
+                <verb>SendNoteProperty</verb>
+                <properties>
+                    <MessageType>CorrectAction</MessageType>
+                    <Selection>
+                        <value>combo4</value>
+                    </Selection>
+                    <Action>
+                        <value>UpdateComboBox</value>
+                    </Action>
+                    <Input>
+                        <value>2</value>
+                    </Input>
+                    <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
+                </properties>
+            </message>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
+            <successMessage></successMessage>
             <callbackFn></callbackFn>
             <actionType>Buggy Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -2038,185 +2217,6 @@
             <indicator>-1</indicator>
         </rule>
         <sourceID>11</sourceID>
-        <destID>33</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>113</uniqueID>
-            <message>
-                <verb>SendNoteProperty</verb>
-                <properties>
-                    <MessageType>CorrectAction</MessageType>
-                    <Selection>
-                        <value>combo4</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateComboBox</value>
-                    </Action>
-                    <Input>
-                        <value>6</value>
-                    </Input>
-                    <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
-                </properties>
-            </message>
-            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matchers Concatenation="true">
-                <Selection>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">combo4</matcherParameter>
-                    </matcher>
-                </Selection>
-                <Action>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
-                    </matcher>
-                </Action>
-                <Input>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">6</matcherParameter>
-                    </matcher>
-                </Input>
-                <Actor linkTriggered="false">Student</Actor>
-            </matchers>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>11</sourceID>
-        <destID>34</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>114</uniqueID>
-            <message>
-                <verb>SendNoteProperty</verb>
-                <properties>
-                    <MessageType>CorrectAction</MessageType>
-                    <Selection>
-                        <value>combo4</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateComboBox</value>
-                    </Action>
-                    <Input>
-                        <value>7</value>
-                    </Input>
-                    <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
-                </properties>
-            </message>
-            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matchers Concatenation="true">
-                <Selection>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">combo4</matcherParameter>
-                    </matcher>
-                </Selection>
-                <Action>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
-                    </matcher>
-                </Action>
-                <Input>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">7</matcherParameter>
-                    </matcher>
-                </Input>
-                <Actor linkTriggered="false">Student</Actor>
-            </matchers>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>11</sourceID>
-        <destID>35</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>115</uniqueID>
-            <message>
-                <verb>SendNoteProperty</verb>
-                <properties>
-                    <MessageType>CorrectAction</MessageType>
-                    <Selection>
-                        <value>combo4</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateComboBox</value>
-                    </Action>
-                    <Input>
-                        <value>4</value>
-                    </Input>
-                    <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
-                </properties>
-            </message>
-            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
-            <successMessage></successMessage>
-            <callbackFn></callbackFn>
-            <actionType>Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matchers Concatenation="true">
-                <Selection>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">combo4</matcherParameter>
-                    </matcher>
-                </Selection>
-                <Action>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
-                    </matcher>
-                </Action>
-                <Input>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">4</matcherParameter>
-                    </matcher>
-                </Input>
-                <Actor linkTriggered="false">Student</Actor>
-            </matchers>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>11</sourceID>
         <destID>36</destID>
         <traversalCount>0</traversalCount>
     </edge>
@@ -2237,12 +2237,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>9</value>
+                        <value>24</value>
                     </Input>
                     <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2265,7 +2265,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">9</matcherParameter>
+                        <matcherParameter name="single">24</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2417,12 +2417,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>470</value>
+                        <value>1</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12381;&#12358;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2445,7 +2445,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">470</matcherParameter>
+                        <matcherParameter name="single">1</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2477,12 +2477,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>66</value>
+                        <value>1.2</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12381;&#12358;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2505,7 +2505,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">66</matcherParameter>
+                        <matcherParameter name="single">1.2</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2537,12 +2537,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>65</value>
+                        <value>1.0</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12381;&#12358;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2565,7 +2565,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">65</matcherParameter>
+                        <matcherParameter name="single">1.0</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2597,12 +2597,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>72</value>
+                        <value>1.4</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12381;&#12358;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2625,7 +2625,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">72</matcherParameter>
+                        <matcherParameter name="single">1.4</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2657,12 +2657,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>469</value>
+                        <value>1.3</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12381;&#12358;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2685,7 +2685,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">469</matcherParameter>
+                        <matcherParameter name="single">1.3</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2717,16 +2717,16 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>68</value>
+                        <value>1.1</value>
                     </Input>
                     <transaction_id>e13d3a28-6898-0798-4a95-392418d62da8</transaction_id>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage>&#12381;&#12398;&#35519;&#23376;&#12391;&#12364;&#12435;&#12400;&#12429;&#12358;&#12290;</successMessage>
-            <hintMessage>&#21839;&#38988;&#12434;&#12424;&#12367;&#35501;&#12415;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
-            <hintMessage>&#21335;&#30010;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12377;&#12290;</hintMessage>
-            <hintMessage>1&#12371;&#12354;&#12383;&#12426;&#12398;&#12376;&#12419;&#12364;&#12356;&#12418;&#12398;&#12397;&#12384;&#12435;&#12399;&#12356;&#12367;&#12425;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <successMessage>&#12391;&#12365;&#12383;&#12397;&#12290;</successMessage>
+            <hintMessage>&#12402;&#12429;&#12375;&#12373;&#12435;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>&#19978;&#12392;&#19979;&#12398;&#30452;&#32218;&#12399;&#12381;&#12428;&#12382;&#12428;&#20309;&#12434;&#34920;&#12375;&#12390;&#12356;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>&#12402;&#12429;&#12375;&#12373;&#12435;&#12399;&#20309;&#25991;&#23383;&#12398;&#25991;&#31456;&#12434;&#25171;&#12385;&#12414;&#12375;&#12383;&#12363;&#12290;</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -2747,7 +2747,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">68</matcherParameter>
+                        <matcherParameter name="single">1.1</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2779,12 +2779,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>3</value>
+                        <value>18</value>
                     </Input>
                     <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12381;&#12358;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2807,7 +2807,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">3</matcherParameter>
+                        <matcherParameter name="single">18</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2839,12 +2839,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>5</value>
+                        <value>50</value>
                     </Input>
                     <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12381;&#12358;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <callbackFn></callbackFn>
             <actionType>Buggy Action</actionType>
@@ -2866,7 +2866,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">5</matcherParameter>
+                        <matcherParameter name="single">50</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2898,12 +2898,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>6</value>
+                        <value>30</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12381;&#12358;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2926,7 +2926,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">6</matcherParameter>
+                        <matcherParameter name="single">30</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2958,72 +2958,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>9</value>
-                    </Input>
-                    <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
-                </properties>
-            </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matchers Concatenation="true">
-                <Selection>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">combo6</matcherParameter>
-                    </matcher>
-                </Selection>
-                <Action>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
-                    </matcher>
-                </Action>
-                <Input>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">9</matcherParameter>
-                    </matcher>
-                </Input>
-                <Actor linkTriggered="false">Student</Actor>
-            </matchers>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>45</sourceID>
-        <destID>49</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>129</uniqueID>
-            <message>
-                <verb>SendNoteProperty</verb>
-                <properties>
-                    <MessageType>CorrectAction</MessageType>
-                    <Selection>
-                        <value>combo6</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateComboBox</value>
-                    </Action>
-                    <Input>
                         <value>2</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12381;&#12358;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3058,6 +2998,66 @@
             <indicator>-1</indicator>
         </rule>
         <sourceID>45</sourceID>
+        <destID>49</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>129</uniqueID>
+            <message>
+                <verb>SendNoteProperty</verb>
+                <properties>
+                    <MessageType>CorrectAction</MessageType>
+                    <Selection>
+                        <value>combo6</value>
+                    </Selection>
+                    <Action>
+                        <value>UpdateComboBox</value>
+                    </Action>
+                    <Input>
+                        <value>33</value>
+                    </Input>
+                    <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
+                </properties>
+            </message>
+            <buggyMessage>&#12381;&#12358;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Buggy Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">combo6</matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">33</matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Student</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>45</sourceID>
         <destID>50</destID>
         <traversalCount>0</traversalCount>
     </edge>
@@ -3078,16 +3078,16 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>7</value>
+                        <value>24</value>
                     </Input>
                     <transaction_id>b0cb70fc-1528-8db7-ddf5-452bc9ed2ccb</transaction_id>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage>&#12381;&#12398;&#35519;&#23376;&#12391;&#12364;&#12435;&#12400;&#12429;&#12358;&#12290;</successMessage>
-            <hintMessage>&#21839;&#38988;&#12434;&#12424;&#12367;&#35501;&#12415;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
-            <hintMessage>&#21335;&#30010;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12377;&#12290;</hintMessage>
-            <hintMessage>1&#12371;&#12354;&#12383;&#12426;&#12398;&#12376;&#12419;&#12364;&#12356;&#12418;&#12398;&#12397;&#12384;&#12435;&#12399;&#12356;&#12367;&#12425;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <successMessage>&#12391;&#12365;&#12383;&#12397;&#12290;</successMessage>
+            <hintMessage>&#12402;&#12429;&#12375;&#12373;&#12435;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>&#19978;&#12392;&#19979;&#12398;&#30452;&#32218;&#12399;&#12381;&#12428;&#12382;&#12428;&#20309;&#12434;&#34920;&#12375;&#12390;&#12356;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>&#12402;&#12429;&#12375;&#12373;&#12435;&#12399;&#20309;&#25991;&#23383;&#12398;&#25991;&#31456;&#12434;&#25171;&#12385;&#12414;&#12375;&#12383;&#12363;&#12290;</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -3108,7 +3108,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">7</matcherParameter>
+                        <matcherParameter name="single">24</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3260,17 +3260,16 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>77
-</value>
+                        <value>1.5</value>
                     </Input>
                     <transaction_id>e13d3a28-6898-0798-4a95-392418d62da8</transaction_id>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage>&#12354;&#12394;&#12383;&#12398;&#32771;&#12360;&#12427;&#21162;&#21147;&#12395;&#24863;&#21205;&#12375;&#12414;&#12375;&#12383;&#12290;</successMessage>
-            <hintMessage>&#21839;&#38988;&#12434;&#12424;&#12367;&#35501;&#12415;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
-            <hintMessage>&#26481;&#30010;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12377;&#12290;</hintMessage>
-            <hintMessage>1&#12371;&#12354;&#12383;&#12426;&#12398;&#12376;&#12419;&#12364;&#12356;&#12418;&#12398;&#12397;&#12384;&#12435;&#12399;&#12356;&#12367;&#12425;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <successMessage>&#12354;&#12387;&#12390;&#12356;&#12414;&#12377;&#12290;</successMessage>
+            <hintMessage>&#12392;&#12418;&#12373;&#12435;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>&#19978;&#12398;&#30452;&#32218;&#12399;&#20309;&#12434;&#34920;&#12375;&#12390;&#12356;&#12414;&#12377;&#12363;&#12290;</hintMessage>
+            <hintMessage>&#12392;&#12418;&#12373;&#12435;&#12399;18&#25991;&#23383;&#12398;&#25991;&#31456;&#12434;&#20309;&#31186;&#12391;&#25171;&#12385;&#32066;&#12431;&#12426;&#12414;&#12375;&#12383;&#12363;&#12290;</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -3291,7 +3290,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">77</matcherParameter>
+                        <matcherParameter name="single">1.5</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3323,12 +3322,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>461</value>
+                        <value>1.6</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3351,7 +3350,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">461</matcherParameter>
+                        <matcherParameter name="single">1.6</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3383,12 +3382,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>90</value>
+                        <value>1.9</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3411,7 +3410,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">90</matcherParameter>
+                        <matcherParameter name="single">1.9</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3443,12 +3442,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>68</value>
+                        <value>1.3</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3471,7 +3470,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">68</matcherParameter>
+                        <matcherParameter name="single">1.3</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3503,12 +3502,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>457</value>
+                        <value>1.1</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3531,7 +3530,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">457</matcherParameter>
+                        <matcherParameter name="single">1.1</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3563,12 +3562,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>456</value>
+                        <value>1.2</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3591,7 +3590,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">456</matcherParameter>
+                        <matcherParameter name="single">1.2</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3623,16 +3622,16 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>462</value>
+                        <value>27</value>
                     </Input>
                     <transaction_id>b0cb70fc-1528-8db7-ddf5-452bc9ed2ccb</transaction_id>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage>&#12354;&#12394;&#12383;&#12398;&#32771;&#12360;&#12427;&#21162;&#21147;&#12395;&#24863;&#21205;&#12375;&#12414;&#12375;&#12383;&#12290;</successMessage>
-            <hintMessage>&#21839;&#38988;&#12434;&#12424;&#12367;&#35501;&#12415;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
-            <hintMessage>&#26481;&#30010;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12377;&#12290;</hintMessage>
-            <hintMessage>1&#12371;&#12354;&#12383;&#12426;&#12398;&#12376;&#12419;&#12364;&#12356;&#12418;&#12398;&#12397;&#12384;&#12435;&#12399;&#12356;&#12367;&#12425;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <successMessage>&#12354;&#12387;&#12390;&#12356;&#12414;&#12377;&#12290;</successMessage>
+            <hintMessage>&#12392;&#12418;&#12373;&#12435;&#12395;&#12388;&#12356;&#12390;&#32771;&#12360;&#12414;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>&#19978;&#12398;&#30452;&#32218;&#12399;&#20309;&#12434;&#34920;&#12375;&#12390;&#12356;&#12414;&#12377;&#12363;&#12290;</hintMessage>
+            <hintMessage>&#12392;&#12418;&#12373;&#12435;&#12399;18&#25991;&#23383;&#12398;&#25991;&#31456;&#12434;&#20309;&#31186;&#12391;&#25171;&#12385;&#32066;&#12431;&#12426;&#12414;&#12375;&#12383;&#12363;&#12290;</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -3653,7 +3652,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">462</matcherParameter>
+                        <matcherParameter name="single">27</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3685,12 +3684,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>2476</value>
+                        <value>18.8</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3713,7 +3712,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">476</matcherParameter>
+                        <matcherParameter name="single">18.8</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3745,12 +3744,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>982</value>
+                        <value>23.9</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3773,7 +3772,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">982</matcherParameter>
+                        <matcherParameter name="single">23.9</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3805,12 +3804,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>648</value>
+                        <value>60</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3833,7 +3832,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">648</matcherParameter>
+                        <matcherParameter name="single">60</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3865,12 +3864,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>587</value>
+                        <value>34.8</value>
                     </Input>
                     <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <callbackFn></callbackFn>
             <actionType>Buggy Action</actionType>
@@ -3892,7 +3891,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">587</matcherParameter>
+                        <matcherParameter name="single">34.8</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3924,12 +3923,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>365</value>
+                        <value>18</value>
                     </Input>
                     <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12391;&#12365;&#12390;&#12356;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3952,7 +3951,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">365</matcherParameter>
+                        <matcherParameter name="single">18</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3991,6 +3990,7 @@
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
+            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -4103,13 +4103,13 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>&#21335;</value>
+                        <value>&#12402;&#12429;&#12375;</value>
                     </Input>
                     <transaction_id>b0cb70fc-1528-8db7-ddf5-452bc9ed2ccb</transaction_id>
                 </properties>
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
-            <successMessage>&#12356;&#12387;&#12375;&#12423;&#12358;&#12369;&#12435;&#12417;&#12356;&#21462;&#12426;&#32068;&#12435;&#12391;&#12356;&#12427;&#12397;&#12290;</successMessage>
+            <successMessage>&#12379;&#12356;&#12363;&#12356;&#12391;&#12377;&#12290;</successMessage>
             <hintMessage>&#20309;&#12434;&#12418;&#12392;&#12417;&#12414;&#12375;&#12383;&#12363;&#12290;</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
@@ -4131,7 +4131,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">&#21335;</matcherParameter>
+                        <matcherParameter name="single">&#12402;&#12429;&#12375;</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -4164,12 +4164,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>&#21271;</value>
+                        <value>&#12422;&#12363;</value>
                     </Input>
                     <transaction_id>T3862c72d-978f-4162-924c-82cab6a90e76</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12373;&#12425;&#12395;&#65292;&#12397;&#12400;&#12426;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12374;&#12435;&#12397;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -4193,7 +4193,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">&#21271;</matcherParameter>
+                        <matcherParameter name="single">&#12422;&#12363;</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -4226,12 +4226,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>&#35199;</value>
+                        <value>&#12392;&#12418;</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12373;&#12425;&#12395;&#65292;&#12397;&#12400;&#12426;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12374;&#12435;&#12397;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -4255,7 +4255,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">&#35199;</matcherParameter>
+                        <matcherParameter name="single">&#12392;&#12418;</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -4287,12 +4287,12 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>&#26481;</value>
+                        <value>&#12394;&#12415;</value>
                     </Input>
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12373;&#12425;&#12395;&#65292;&#12397;&#12400;&#12426;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12374;&#12435;&#12397;&#12435;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -4315,7 +4315,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">&#26481;</matcherParameter>
+                        <matcherParameter name="single">&#12394;&#12415;</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
