@@ -129,7 +129,7 @@
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>blank1_20</text>
+        <text>blank1_80</text>
         <uniqueID>29</uniqueID>
         <dimension>
             <x>840</x>
@@ -1012,7 +1012,7 @@
                     <transaction_id>b18b0b36-0420-11bc-de83-638f75801a2f</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12369;&#12356;&#12382;&#12367;&#12399;&#21147;&#12394;&#12426;&#12290;</buggyMessage>
+            <buggyMessage>&#12414;&#12384;&#12414;&#12384;&#12371;&#12428;&#12363;&#12425;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1067,7 +1067,7 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>20</value>
+                        <value>80</value>
                     </Input>
                     <transaction_id>b18b0b36-0420-11bc-de83-638f75801a2f</transaction_id>
                 </properties>
@@ -1095,7 +1095,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">20</matcherParameter>
+                        <matcherParameter name="single">80</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1132,7 +1132,7 @@
                     <transaction_id>5727a459-4944-a5fa-84a3-58ad8f593bcd</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12385;&#12364;&#12356;&#12399;&#65292;&#12379;&#12356;&#12371;&#12358;&#12398;&#12459;&#12462;&#12391;&#12377;&#12290;</buggyMessage>
+            <buggyMessage>&#12373;&#12425;&#12395;&#32771;&#12360;&#12390;&#12415;&#12427;&#12371;&#12392;&#12364;&#22823;&#20999;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1192,7 +1192,7 @@
                     <transaction_id>5727a459-4944-a5fa-84a3-58ad8f593bcd</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12385;&#12364;&#12356;&#12399;&#65292;&#12379;&#12356;&#12371;&#12358;&#12398;&#12459;&#12462;&#12391;&#12377;&#12290;</buggyMessage>
+            <buggyMessage>&#24341;&#12365;&#32154;&#12365;&#65292;&#12385;&#12423;&#12358;&#12379;&#12435;&#12375;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1252,7 +1252,7 @@
                     <transaction_id>5727a459-4944-a5fa-84a3-58ad8f593bcd</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12424;&#12367;&#32771;&#12360;&#12390;&#12415;&#12427;&#12371;&#12392;&#12364;&#22823;&#20999;&#12391;&#12377;&#12290;</buggyMessage>
+            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#12364;&#12435;&#12400;&#12387;&#12390;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1312,7 +1312,7 @@
                     <transaction_id>5727a459-4944-a5fa-84a3-58ad8f593bcd</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12424;&#12367;&#32771;&#12360;&#12390;&#12415;&#12427;&#12371;&#12392;&#12364;&#22823;&#20999;&#12391;&#12377;&#12290;</buggyMessage>
+            <buggyMessage>&#12373;&#12425;&#12395;&#65292;&#12397;&#12400;&#12426;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1372,7 +1372,7 @@
                     <transaction_id>5727a459-4944-a5fa-84a3-58ad8f593bcd</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12373;&#12425;&#12395;&#32771;&#12360;&#12390;&#12415;&#12427;&#12371;&#12392;&#12364;&#22823;&#20999;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1432,7 +1432,7 @@
                     <transaction_id>5727a459-4944-a5fa-84a3-58ad8f593bcd</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1612,7 +1612,7 @@
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12369;&#12356;&#12382;&#12367;&#12399;&#21147;&#12394;&#12426;&#12290;</buggyMessage>
+            <buggyMessage>&#12418;&#12358;&#23569;&#12375;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1673,7 +1673,7 @@
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12369;&#12356;&#12382;&#12367;&#12399;&#21147;&#12394;&#12426;&#12290;</buggyMessage>
+            <buggyMessage>&#12414;&#12383;&#12364;&#12435;&#12400;&#12387;&#12390;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1734,7 +1734,7 @@
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12369;&#12356;&#12382;&#12367;&#12399;&#21147;&#12394;&#12426;&#12290;</buggyMessage>
+            <buggyMessage>&#12424;&#12367;&#32771;&#12360;&#12390;&#12415;&#12427;&#12371;&#12392;&#12364;&#22823;&#20999;&#12391;&#12377;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1794,7 +1794,7 @@
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12385;&#12364;&#12356;&#12399;&#65292;&#12379;&#12356;&#12371;&#12358;&#12398;&#12459;&#12462;&#12391;&#12377;&#12290;</buggyMessage>
+            <buggyMessage>&#12418;&#12358;&#12385;&#12423;&#12387;&#12392;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1915,7 +1915,7 @@
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12385;&#12364;&#12356;&#12399;&#65292;&#12379;&#12356;&#12371;&#12358;&#12398;&#12459;&#12462;&#12391;&#12377;&#12290;</buggyMessage>
+            <buggyMessage>&#12467;&#12484;&#12467;&#12484;&#12364;&#12435;&#12400;&#12387;&#12390;&#12356;&#12371;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -1975,7 +1975,7 @@
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12424;&#12367;&#32771;&#12360;&#12390;&#12415;&#12427;&#12371;&#12392;&#12364;&#22823;&#20999;&#12391;&#12377;&#12290;</buggyMessage>
+            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2035,7 +2035,7 @@
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12424;&#12367;&#32771;&#12360;&#12390;&#12415;&#12427;&#12371;&#12392;&#12364;&#22823;&#20999;&#12391;&#12377;&#12290;</buggyMessage>
+            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2095,7 +2095,7 @@
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12424;&#12367;&#32771;&#12360;&#12390;&#12415;&#12427;&#12371;&#12392;&#12364;&#22823;&#20999;&#12391;&#12377;&#12290;</buggyMessage>
+            <buggyMessage>&#12388;&#12389;&#12369;&#12390;&#32771;&#12360;&#12427;&#12371;&#12392;&#12364;&#22823;&#20999;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2155,7 +2155,7 @@
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12418;&#12358;&#12385;&#12423;&#12387;&#12392;&#12364;&#12435;&#12400;&#12387;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -2275,7 +2275,7 @@
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12375;&#12435;&#12412;&#12358;&#24375;&#12367;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
+            <buggyMessage>&#12384;&#12356;&#12376;&#12423;&#12358;&#12406;&#12290;&#12414;&#12383;&#12364;&#12435;&#12400;&#12387;&#12390;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
