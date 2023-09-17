@@ -799,7 +799,7 @@
                     <transaction_id>54bf20cc-dace-56b5-aad2-909bc0b86192</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12369;&#12356;&#12382;&#12367;&#12399;&#21147;&#12394;&#12426;&#12290;</buggyMessage>
+            <buggyMessage>&#12369;&#12356;&#12382;&#12367;&#12399;&#21147;&#12394;&#12426;&#12290;&#12373;&#12425;&#12395;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <callbackFn></callbackFn>
             <actionType>Buggy Action</actionType>
@@ -2123,7 +2123,7 @@
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12369;&#12356;&#12382;&#12367;&#12399;&#21147;&#12394;&#12426;&#12290;</buggyMessage>
+            <buggyMessage>&#12369;&#12356;&#12382;&#12367;&#12399;&#21147;&#12394;&#12426;&#12290;&#12373;&#12425;&#12395;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
@@ -3568,7 +3568,7 @@
                     <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
                 </properties>
             </message>
-            <buggyMessage>&#12369;&#12356;&#12382;&#12367;&#12399;&#21147;&#12394;&#12426;&#12290;</buggyMessage>
+            <buggyMessage>&#12369;&#12356;&#12382;&#12367;&#12399;&#21147;&#12394;&#12426;&#12290;&#12373;&#12425;&#12395;&#32771;&#12360;&#12390;&#12415;&#12424;&#12358;&#12290;</buggyMessage>
             <successMessage></successMessage>
             <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
             <callbackFn></callbackFn>
